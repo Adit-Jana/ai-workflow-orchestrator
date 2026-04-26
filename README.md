@@ -32,6 +32,7 @@ This project is a no-code automation workflow built with **n8n** that integrates
    - Handles Markdown cleanup and JSON parsing
    - Serializes Python dictionaries to base64-encoded pickle files
 
+
 ## API Endpoint
 
 ### Generate Configuration
