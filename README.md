@@ -10,7 +10,6 @@ This project is a no-code automation workflow built with **n8n** that integrates
 - **Python Pickle Files** - Serialized Python dictionary configurations
 - **Git Branch Names** - Automated branch naming for DevOps workflows
 
-
 ## Workflow Architecture
 
 ### Components
