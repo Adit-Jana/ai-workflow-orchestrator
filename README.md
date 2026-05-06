@@ -19,6 +19,7 @@ This project is a no-code automation workflow built with **n8n** that integrates
    - Entry point for configuration generation requests
    - Accepts POST requests with input parameters
 
+
 2. **Prompt Builder**
    - Creates an optimized prompt for the AI model
    - Instructs Gemini AI to generate YAML, EJS, and Python configs
