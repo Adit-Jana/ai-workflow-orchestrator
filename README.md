@@ -12,7 +12,6 @@ This project is a no-code automation workflow built with **n8n** that integrates
 - **Git Branch Names** - Automated branch naming for DevOps workflows
 
 ## Workflow Architecture
-
 ### Components
 
 1. **Webhook Trigger** (`/generate-config`)
