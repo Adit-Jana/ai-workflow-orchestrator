@@ -12,7 +12,6 @@ This project is a no-code automation workflow built with **n8n** that integrates
 ## Workflow Architecture
 ### Components
 
-
 1. **Webhook Trigger** (`/generate-config`)
    - Entry point for configuration generation requests
    - Accepts POST requests with input parameters
