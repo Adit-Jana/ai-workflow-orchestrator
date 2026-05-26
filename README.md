@@ -8,7 +8,6 @@ This project is a no-code automation workflow built with **n8n** that integrates
 - **EJS Templates** (template.ejs) - Templated HTML/configuration files
 - **Python Pickle Files** - Serialized Python dictionary configurations
 - **Git Branch Names** - Automated branch naming for DevOps workflows
-
 ## Workflow Architecture
 ### Components
 
