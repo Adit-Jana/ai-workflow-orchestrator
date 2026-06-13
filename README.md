@@ -10,6 +10,7 @@ This project is a no-code automation workflow built with **n8n** that integrates
 
 
 
+
 - **YAML Configuration** (spec.yaml) - Kubernetes-ready YAML with kebab-case formatting
 - **EJS Templates** (template.ejs) - Templated HTML/configuration files
 - **Python Pickle Files** - Serialized Python dictionary configurations
