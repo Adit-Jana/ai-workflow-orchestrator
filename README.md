@@ -7,6 +7,8 @@ An intelligent workflow orchestration system that leverages AI to generate dynam
 
 
 
+
+
 ## Overview
 This project is a no-code automation workflow built with **n8n** that integrates with **Google Gemini AI** to generate infrastructure configuration files on demand. It automates the creation of:
 
